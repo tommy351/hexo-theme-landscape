@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  GitHub: https://github.com/tommy351
 rss: /atom.xml
 
 # Content
@@ -9,7 +10,7 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: false
 widgets:
 - category
 - tag
@@ -18,9 +19,9 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
-favicon: /favicon.png
-twitter:
-google_plus:
-fb_admins:
+google_analytics: UA-4910098-7
+favicon:
+twitter: tommy351
+google_plus: 108777679171675250079
+fb_admins: 100000247608790
 fb_app_id:
